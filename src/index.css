@@ -1,0 +1,14 @@
+
+:root{
+    --primary-color: #FFFCFF;  
+    --secondary-color: #517B56;
+    --black-color: #292E1E;
+    --mantis: #6AB547;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: var(--primary-color);
+}
